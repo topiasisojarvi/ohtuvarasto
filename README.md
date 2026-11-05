@@ -1,2 +1,2 @@
 # ohtuvarasto
-https://github.com/topiasisojari/ohtuvarasto/actions/workflows/main.yml
+https://github.com/topiasisojarvi/ohtuvarasto/actions/workflows/main.yml
