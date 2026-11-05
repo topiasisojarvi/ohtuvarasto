@@ -1,2 +1,2 @@
 # ohtuvarasto
-https://github.com/topiasisojari/ohtuvarasto/.github/workflows/main.yml/badge.svg
+https://github.com/topiasisojari/ohtuvarasto/actions/workflows/main.yml
